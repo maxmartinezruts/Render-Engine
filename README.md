@@ -1,6 +1,6 @@
 # Render-Engine
 
-## Description (source:)
+## Description (source: https://en.wikipedia.org/wiki/Rendering_(computer_graphics))
 Rendering or image synthesis is the automatic process of generating a photorealistic or non-photorealistic image from a 2D or 3D
 model (or models in what collectively could be called a scene file) by means of computer programs. Also, the results of displaying
 such a model can be called a render. A scene file contains objects in a strictly defined language or data structure; it would contain
